@@ -1,0 +1,14 @@
+picot
+p population
+i intervension
+c comparison
+o outcome
+t timeframe
+(repositories)place of storage
+doaj org, google scholars, 
+for main key words and , or, "", *
+sickle cell anemia
+reasearch gate way website is there for uploading individual reseach work
+version controlS
+etherpad, glit software
+google trends
